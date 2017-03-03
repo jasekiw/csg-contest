@@ -2,4 +2,4 @@
 
 yum  -y update
 
-./iptables/up.sh
+./scripts/iptables/up.sh
