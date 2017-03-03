@@ -2,4 +2,4 @@
 
 iptables -F
 iptables -P INPUT ACCEPT
-iptables service save
+service iptables save
