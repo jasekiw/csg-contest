@@ -26,3 +26,8 @@ to save iptables to startup
 ```
 service iptables save
 ```
+
+to allow a port 
+```
+sudo iptables -A INPUT -p tcp --dport ssh -j ACCEPT
+```
