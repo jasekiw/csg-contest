@@ -31,3 +31,8 @@ to allow a port
 ```
 sudo iptables -A INPUT -p tcp --dport ssh -j ACCEPT
 ```
+
+to restore iptables last save
+```
+service iptables restart
+```

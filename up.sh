@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
-yum  -y update
+yum -y update
 
 ./scripts/iptables/up.sh
+./scripts/chkconfig//up.sh

@@ -11,4 +11,9 @@ chmod +x ./prepare.sh
 ```
 
 
+###hardening
+
+https://wiki.centos.org/HowTos/OS_Protection
+
+
 
