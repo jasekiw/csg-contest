@@ -7,6 +7,7 @@ unzip csg-scripts.zip
 cd csg-contest-master
 chmod +x ./prepare.sh
 ./prepare.sh
+./up.sh
 ```
 
 
