@@ -3,4 +3,4 @@
 yum -y update
 
 ./scripts/iptables/up.sh
-./scripts/chkconfig//up.sh
+./scripts/chkconfig/up.sh
