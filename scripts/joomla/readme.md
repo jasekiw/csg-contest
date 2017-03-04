@@ -20,3 +20,5 @@ $statement->bindParam(1, $credentials['username']);
 $statement->execute();
 $result = $statement->fetchObject();
 ```
+
+move xmlrpc folder out of public html

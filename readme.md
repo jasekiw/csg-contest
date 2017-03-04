@@ -16,4 +16,13 @@ chmod +x ./prepare.sh
 https://wiki.centos.org/HowTos/OS_Protection
 
 
+###first steps
 
+change root password.
+load gui
+go to 127.0.0.1 in the browser. 
+look for user interaction forms
+
+trigger iptables script.
+see if it goes down
+revert if it does.
